@@ -1,4 +1,4 @@
-package com.mmch.mmchlauncherxml
+package com.androfi.androfi
 
 import android.content.Context
 import android.content.Intent

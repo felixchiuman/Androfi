@@ -19,6 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "MMCH Launcher (XML)"
+rootProject.name = "Androfi"
 include(":app")
  

@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.mmch.mmchlauncherxml"
+    namespace = "com.androfi.androfi"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.mmch.mmchlauncherxml"
+        applicationId = "com.androfi.androfi"
         minSdk = 24
         targetSdk = 34
         versionCode = 1

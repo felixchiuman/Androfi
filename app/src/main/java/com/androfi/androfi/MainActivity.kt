@@ -1,4 +1,4 @@
-package com.mmch.mmchlauncherxml
+package com.androfi.androfi
 
 import android.Manifest
 import android.app.WallpaperManager

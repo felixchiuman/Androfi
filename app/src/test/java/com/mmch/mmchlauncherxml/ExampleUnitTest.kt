@@ -1,5 +1,3 @@
-package com.mmch.mmchlauncherxml
-
 import org.junit.Test
 
 import org.junit.Assert.*
